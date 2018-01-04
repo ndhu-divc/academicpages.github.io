@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "NDHU DIVC"
+title                    : "NDHU DIVC Lab"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,11 +80,27 @@ analytics:
 author:
   name             : "I-Cheng-Chang(張意政)"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "國立東華大學理工二館 C316室"
+  bio              : "<p style='height: 22px; font-size: 18px; font-weight: bolder; padding: 0px; margin: 0px 0px 0px 0px; color: #000000; line-height: normal;'>OFFICE</p>
+<div  style='height: 171px; margin: 0px 0px 10px 0px; color: #000000; font-size: medium; line-height: normal;'>
+<p  style='height: 17px; font-size: 14px; font-weight: bold; padding: 0px; margin: 5px 0px 0px;'>Tel</p>
+<p  style='height: 17px; font-size: 14px; padding: 0px; margin: 0px 0px 0px 10px;'>03-863-4022</p>
+<p  style='height: 17px; font-size: 14px; font-weight: bold; padding: 0px; margin: 5px 0px 0px;'>Fax</p>
+<p  style='height: 17px; font-size: 14px; padding: 0px; margin: 0px 0px 0px 10px;'>03-863-4010</p>
+<p  style='height: 17px; font-size: 14px; font-weight: bold; padding: 0px; margin: 5px 0px 0px;'>Email</p>
+<p  style='height: 17px; font-size: 14px; padding: 0px; margin: 0px 0px 0px 10px;'><a style='height: auto;' href='mailto:ICChang@mail.ndhu.edu.tw'>ICChang@mail.ndhu.edu.tw</a></p>
+<p  style='height: 17px; font-size: 14px; font-weight: bold; padding: 0px; margin: 5px 0px 0px;'>Address</p>
+<p  style='height: 20px; font-size: 14px; padding: 0px; margin: 0px 0px 0px 10px;'>國立東華大學理工二館 C316室</p>
+</div>
+<p  style='height: 22px; font-size: 18px; font-weight: bolder; padding: 0px; margin: 0px 0px 0px 0px; color: #000000; line-height: normal;'>LABRATORY</p>
+<div  style='height: 93px; margin: 0px 0px 10px 0px; color: #000000; font-size: medium; line-height: normal;'>
+<p  style='height: 17px; font-size: 14px; font-weight: bold; padding: 0px; margin: 5px 0px 0px;'>Tel</p>
+<p  style='height: 17px; font-size: 14px; padding: 0px; margin: 0px 0px 0px 10px;'>03-863-4047</p>
+<p  style='height: 17px; font-size: 14px; font-weight: bold; padding: 0px; margin: 5px 0px 0px;'>Address</p>
+<p  style='height: 20px; font-size: 14px; padding: 0px; margin: 0px 0px 0px 10px;'>國立東華大學工學院C317室</p>
+</div>"
+  location         : 
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "ICChang@mail.ndhu.edu.tw"
+  email            : 
   uri              :
   bitbucket        :
   codepen          :
