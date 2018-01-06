@@ -4,8 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-目錄
-------
+## &nbsp;
+
+## 目錄
 
 - [期刊論文](#journal)
 - [國際會議論文](#intl_conf)
@@ -16,8 +17,7 @@ author_profile: true
 
 <a name="journal"></a>
 
-期刊論文
-------
+## 期刊論文
 
 [A-1] *I-Cheng Chang\**, J. Cloud Yu and Chih-Chuan Chang, “A Forgery Detection Algorithm for Exemplar-based Inpainting Images Using Multi-region Relation”, Image and Vision Computing, to be published in Vol. 31, Issue 1, pp. 57-71, 2013. [SCI]
 <br>
@@ -53,8 +53,7 @@ author_profile: true
 
 <a name="intl_conf"></a>
 
-國際會議論文
-------
+## 國際會議論文
 
 [B-1] Jia-Wei Hung, *I-Cheng Chang\** and Jiun-Wei Yu, “An Interactive 3D Modeling System Based on Fingertip Tracking”, International Computer Symposium (ICS 2012), Hualien, Taiwan, December, 2012.
 <br>
@@ -110,8 +109,7 @@ author_profile: true
 
 <a name='tw_conf'></a>
 
-國內會議論文
-------
+## 國內會議論文
 
 [B-27] Shi-Zhong Zhan and I-Cheng Chan, “Human Interaction Detection Based on Pictorial Structures”, Conference on Computer Vision, Graphics, and Image Processing, Taiwan, August, 2012.
 <br>
@@ -143,8 +141,7 @@ author_profile: true
 
 <a name='patent'></a>
 
-專利
-------
+## 專利
 
 [C-1] TW Patent：葉元豪、張意政、黃清隆，三維色彩資訊擷取方法及其裝置，I257072 TW，2006.
 <br>
@@ -154,8 +151,7 @@ author_profile: true
 
 <a name='book'></a>
 
-書目章節
-------
+## 書目章節
 
 [D-1] Yung-Sheng Chen, I-Cheng Chang, Bor-Tow Chen and Ching-Long Huang, Three-dimensional Digital Colour Camera, Image Processing, ISBN 978-953-307-026-1, IN-TECH, 2009.
 <br>
@@ -165,8 +161,7 @@ author_profile: true
 
 <a name='others'></a>
 
-其他
-------
+## 其他
 
 [E-1] Technical Report： 張意政、葉元豪、黃清隆， Portable 3D Acquisition Technique，工研院光電所科專計畫技術報告，2002。
 <br>
