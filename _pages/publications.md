@@ -4,8 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## &nbsp;
-
 ## 目錄
 
 - [期刊論文](#journal)
