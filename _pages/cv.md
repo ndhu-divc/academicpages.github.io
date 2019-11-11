@@ -19,6 +19,7 @@ redirect_from:
 <div class="ListContent" style="height: auto; font-size: medium; text-align: justify; margin: 0px; padding: 0px; color: #000000; line-height: normal;">
 <p style="height: auto; font-size: 20px; font-weight: bold; padding: 0px; margin: 0px;">Career</p>
 <ul style="height: auto;">
+<li style="height: auto; list-style-type: square; padding: 5px 0px 0px;">國立東華大學資訊工程系　教授</li>
 <li style="height: auto; list-style-type: square; padding: 5px 0px 0px;">國立東華大學資訊工程系　副教授</li>
 <li style="height: auto; list-style-type: square; padding: 5px 0px 0px;">國立東華大學資訊工程系　助理教授</li>
 <li style="height: auto; list-style-type: square; padding: 5px 0px 0px;">工業技術研究院光電所　課長</li>
