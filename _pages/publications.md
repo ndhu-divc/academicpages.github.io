@@ -17,6 +17,8 @@ author_profile: true
 
 ## 期刊論文
 
+[A-1] Yu-Chen Hu*, *I-Cheng Chang\**, Kuo-Yu Liu and Che-Lun Hung, “Improved Color Image Coding Schemes Based on Single Bit Map Block Truncation Coding”, Optical Engineering, Vol. 53, Issue 9, 093104(12 pages) , 2014. [SCI]
+<br>
 [A-1] *I-Cheng Chang\**, J. Cloud Yu and Chih-Chuan Chang, “A Forgery Detection Algorithm for Exemplar-based Inpainting Images Using Multi-region Relation”, Image and Vision Computing, to be published in Vol. 31, Issue 1, pp. 57-71, 2013. [SCI]
 <br>
 [A-2] *I-Cheng Chang\**, Kun-Han Lue, Hung-Jen Hsieh, Shu-Hsin Liu and Chih-Hao K.Ka, “Automated Striatal Uptake Analysis of 18F-FDOPA PET Images Applied to Parkinson’s Disease Patients”, Annals of Nuclear Medicine, to be published in Vol. 25, Issue 10, pp. 796-203, 2011. [SCI]
