@@ -71,57 +71,79 @@ author_profile: true
 
 ## 國際會議論文
 
-[B-1] Jia-Wei Hung, *I-Cheng Chang\** and Jiun-Wei Yu, “An Interactive 3D Modeling System Based on Fingertip Tracking”, International Computer Symposium (ICS 2012), Hualien, Taiwan, December, 2012.
+[B-1] *I-Cheng Chang\** and Jhe-Sheng Lyu, “Action Recognition Using Sparse Representation”, The International Workshop of Machine Learning on Multimedia and Applications 2018, Nanjing, China, Aug. 22-25, 2018. [Ei] 
 <br>
-[B-2] I-Cheng Chang, Jia-Hong Yang and Yi-Hsiang Liao, “Multi-Camera Based Social Network Analysis”, The Eighth International Conference on Intelligent Information Hiding and Multimedia Signal Processing (IIH-MSP 2012), Piraeus-Athens, Greece, July, 2012. [Ei]
+[B-2] Yu-Chen Hu*, Yi-Hung Liu, and *I-Cheng Chang\**, “Color Image Coding Based on Block Truncation Coding using Quadtree Segmentation”, 3rd International Conference on Computer and Communication Systems (ICCCS), Nagoya, Japan, Apr. 27-30, 2018. [Ei]
 <br>
-[B-3] Ke-Yin Chen, Chung-Lin Huang, Shih-Chung Hsu and I-Cheng Chang, “Multiple Objects Tracking across Multiple Non-Overlapped Views”, Pacific-rim Symposium on Video and Image Technology (PSIVT 2011), Gwangju, South Korea, November, 2011. [LNCS]
+[B-3] *I-Cheng Chang\**, Yudi Pratama Halim, and Chun-Man Lin, “Vehicle Path Estimation Using Dual-Level Clustering and Multi-Source Prediction”, IEEE Big Data 2017 Workshops: The 4th International Workshop on Pattern Mining and Application of Big Data (BigPMA 2017), Boston, MA, USA, Dec. 11-14, 2017. [Ei]
 <br>
-[B-4] *I-Cheng Chang\** and Ruei-Min Cheng, “Caricaturation for Human Face Pictures”,International Conference on Machine Learning and Cybernetics (ICMLC 2011), Guangxi, China, July, 2011. [Ei]
+[B-4] Guan-Jhih Chen, *I-Cheng Chang\** and Hung-Yu Yeh, “Action Segmentation Based on Bag¬ of¬ Visual¬ Words Models”, The 10th International Conference on Ubi-media Computing and Workshops, Pattaya, Thailand, Aug. 01-04, 2017. [Ei]
 <br>
-[B-5] *I-Cheng Chang\**, Chieh-Yu Liu and Chung-Lin Huang, “Human Activity Linkage Recording for Multiple Cameras with Disjoint Views”, The Sixth International Conference on Intelligent Information Hiding and Multimedia Signal Processing (IIH-MSP 2010), Darmstadt, Germany, Oct. 15-17, 2010. [Ei]
+[B-5] Yu-Sheng Ruan, *I-Cheng Chang\** and Hung-Yu Yeh, “Vehicle Detection Based on Wheel Part Detection”, International Conference on Consumer Electronics-Taiwan (ICCE-TW), Taipei, Taiwan, Jun. 6-8, 2017. [Ei]
 <br>
-[B-6] *I-Cheng Chang\** and Chia-We Hsu, “Multi-Layer based Video Inpainting of Occluded Objects”, Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC 2009), Japan, Oct. 4-7, 2009.
+[B-6] Shih-Chung Hsu, *I-Cheng Chang\** and Chung-Lin Huang*, “Object Verification in Two Views Using Sparse Representation”, The 23rd International Conference on Pattern Recognition (ICPR), Cancún, México, Dec. 04-08, 2016. [Ei]
 <br>
-[B-7] Shih-Yao Lin and I-Cheng Chang, “Dynamic Kernel-Based Progressive Particle Filter for 3D Human Motion Tracking”, The Ninth Asian Conference on Computer Vision (ACCV 2009), China, Sep. 23-27, 2009. [LNCS]
+[B-7] *I-Cheng Chang\** and Hsuan-Ying Liao, “Clothing Recommendation Based on Parts Alignment”, The 9th IEEE International Conference on Ubi-Media Computing, Moscow, Russia, Aug. 15-17, 2016. [RSCI]
 <br>
-[B-8] I-Cheng Chang, Jia-Hong Yang and Jiun-Wei Yu, “Event Detection and Target Tracking Based on Co-operative Multi-camera System”, IEEE International Conference on Consumer Electronics (ICCE 2009), Las Vegas Convention Center, USA, Jan. 12-14, 2009. [Ei]
+[B-8] *I-Cheng Chang\** and Yung-Hsin Chen, “Human Event Detection Using Single and Group Behavior Analysis”, International Conference on Information and Social Science (ISS 2015), Fukuoka, Japan, Aug. 5-7, 2015.
 <br>
-[B-9] I-Cheng Chang and Chia-We Hsu, “Enhanced Exemplar-based Method for Image Inpainting”, The 10th International Conference on Signal and Image Processing (SIP 2008), Kailua-Kona, USA, Aug. 18-20, 2008.
+[B-9] J. Cloud Yu, *I-Cheng Chang\**, and Yi-Jun Lin, “A Dynamic Music Adding System Based on Cloud Computing”, International Conference on Consumer Electronics-Taiwan (ICCE-TW), Taipei, Taiwan, Jun. 6-8, 2015. [Ei]
 <br>
-[B-10] Shih-Yao Lin and I-Cheng Chang, “3D Human Motion Tracking Using Progressive Particle Filter”, The 4th International Symposium on Visual Computing, Las Vegas, Nevada, USA, Dec. 1-3, 2008. [LNCS]
+[B-10] Shi-Zhong Zhan and *I-Cheng Chang\**, “Pictorial Structures Model Based Human Interaction Recognition”, The 13th International Conference on Machine Learning and Cybernetics (ICMLC 2014), Lanzhou, China, Jul. 13-16, 2014. [Ei]
 <br>
-[B-11] I-Cheng Chang and Kun-You Cheng, “Content-Selection Based Video Summarization”, IEEE International Conference On Consumer Electronics (ICCE 2007), Las Vegas Convention Center, USA, Jan. 11-14, 2007. [Ei]
+[B-11] *I-Cheng Chang\** and Yu-Kai Kao, “Video Compensation for Highlights and Shadows”, The 15th IASTED International Conference on Signal and Image Processing (SIP 2013), Banff, Canada, Jul. 17-19, 2013.
 <br>
-[B-12] J.C. Wu, Y.S. Chen and I-Cheng Chang, “Approach of facial feature extraction for 3D face modeling”, The International MultiConference of Engineers and Computer Scientists (IMECS 2006), Hong Kong, June 20-22, 2006.
+[B-12] Jia-Wei Hung, *I-Cheng Chang\** and Jiun-Wei Yu, “An Interactive 3D Modeling System Based on Fingertip Tracking”, International Computer Symposium (ICS 2012), Hualien, Taiwan, December, 2012. [LNCS]
 <br>
-[B-13] I-Cheng Chang, Tian-Lin Yang and Chung-Lin Huang, “Environment Matting of Transparent Objects Based on Frequency-Domain Analysis”, The 6th Pacific-Rim Conference on Multimedia (PCM 2005), Jeju Island, Korea, Nov. 13-16, 2005. [LNCS]
+[B-13] *I-Cheng Chang\**, Jia-Hong Yang and Yi-Hsiang Liao, “Multi-Camera Based Social Network Analysis”, The Eighth International Conference on Intelligent Information Hiding and Multimedia Signal Processing (IIH-MSP 2012), Piraeus-Athens, Greece, July, 2012. [Ei]
 <br>
-[B-14] I-Cheng Chang, Bor-Tow Chen and Ching-Long Huang, “An On-hand 3D Acquisition Technique Based on Tri-aperture Lens Configuration”, The 24th IASTED International Conference on Modeling, Identification, and Control (MIC 2005), Innsbruck, Austria, Feb. 16-18, 2005.
+[B-14] Ke-Yin Chen, Chung-Lin Huang, Shih-Chung Hsu and *I-Cheng Chang\**, “Multiple Objects Tracking across Multiple Non-Overlapped Views”, Pacific-rim Symposium on Video and Image Technology (PSIVT 2011), Gwangju, South Korea, November, 2011. [LNCS]
 <br>
-[B-15] Yuan-Hao Yeh, I-Cheng Chang, Ching-Long Huang and Wen-Jean Hsueh, “A Novel Robust and Material Adaptive 3D Imaging System”, The 3rd IASTED International Conference on Visualization, Imaging, and Image Processing (VIIP 2003), Benalmádena, Spain, September, 2003.
+[B-15] *I-Cheng Chang\** and Ruei-Min Cheng, “Caricaturation for Human Face Pictures”,International Conference on Machine Learning and Cybernetics (ICMLC 2011), Guangxi, China, July, 2011. [Ei]
 <br>
-[B-16] Xinyi Jiang, Chun-Fa Chang, Wei-Yih Ho, Shitang Chen and I-Cheng Chang, “Recovery of Reflectance Properties for Merging Multiple 3D Scans”, Proceedings of IEEE Fourth Pacific-Rim Conference on Multimedia (PCM 2003), Singapore, December, 2003.
+[B-16] *I-Cheng Chang\**, Chieh-Yu Liu and Chung-Lin Huang, “Human Activity Linkage Recording for Multiple Cameras with Disjoint Views”, The Sixth International Conference on Intelligent Information Hiding and Multimedia Signal Processing (IIH-MSP 2010), Darmstadt, Germany, Oct. 15-17, 2010. [Ei]
 <br>
-[B-17] I-Cheng Chang, Ching-Long Huang and W.J. Hsueh, “A Novel 3-D Hand-held Camera based on Tri-aperture Lens”, SPIE Photonics Asia, Vol. 4925, Shanghai, October, 2002.
+[B-17] *I-Cheng Chang\** and Chia-We Hsu, “Multi-Layer based Video Inpainting of Occluded Objects”, Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC 2009), Japan, Oct. 4-7, 2009.
 <br>
-[B-18] Yuan-Hao Yeh, I-Cheng Chang and Ching-Long Huang, “A New Fast and High-resolution 3D Imaging System with Color Structured Light”, SPIE Photonics Asia, Vol. 4925, Shanghai, October, 2002.
+[B-18] Shih-Yao Lin and *I-Cheng Chang\**, “Dynamic Kernel-Based Progressive Particle Filter for 3D Human Motion Tracking”, The Ninth Asian Conference on Computer Vision (ACCV 2009), China, Sep. 23-27, 2009. [LNCS]
 <br>
-[B-19] I-Cheng Chang, B.T. Chen, K.J. Hsieh, W.J. Hsueh and H.C. Lin, “Surface Reconstruction Technique based on 3D Triangulation Enhancement”, SPIE Photonics Taiwan, Vol. 4080, July, 2000.
+[B-19] *I-Cheng Chang\**, Jia-Hong Yang and Jiun-Wei Yu, “Event Detection and Target Tracking Based on Co-operative Multi-camera System”, IEEE International Conference on Consumer Electronics (ICCE 2009), Las Vegas Convention Center, USA, Jan. 12-14, 2009. [Ei]
 <br>
-[B-20] I-Cheng Chang, C.L. Huang and C.C Lien, “Posture Identification through Inverse Kinematics Method”, Proceedings of the Fourth Asian Conference on Computer Vision(ACCV 2000), Taipei, Taiwan, Jan. 8-11, 2000.
+[B-20] *I-Cheng Chang\** and Chia-We Hsu, “Enhanced Exemplar-based Method for Image Inpainting”, The 10th International Conference on Signal and Image Processing (SIP 2008), Kailua-Kona, USA, Aug. 18-20, 2008.
 <br>
-[B-21] I-Cheng Chang and C.L. Huang, “The Walking Human Motion Analysis using Hidden Markov Model”, Proceedings of International Symposium on Multimedia Information Processing (ISMIP 1997), Taipei, Taiwan, 1997.
+[B-21] Shih-Yao Lin and *I-Cheng Chang\**, “3D Human Motion Tracking Using Progressive Particle Filter”, The 4th International Symposium on Visual Computing, Las Vegas, Nevada, USA, Dec. 1-3, 2008. [LNCS]
 <br>
-[B-22] I-Cheng Chang and C.L. Huang, “Ribbon-Based Motion Analysis of Human Body Movements”, Proceedings of ICPR, Vienna, Austria, 1996.
+[B-22] *I-Cheng Chang\** and Kun-You Cheng, “Content-Selection Based Video Summarization”, IEEE International Conference On Consumer Electronics (ICCE 2007), Las Vegas Convention Center, USA, Jan. 11-14, 2007. [Ei]
 <br>
-[B-23] I-Cheng Chang, C.L. Huang, L.C. Wu, Y.Y. Shen, and S.H. Yeh, “Cardiac Motion Analysis by Normal Directional Flow Constraint”, The Society of Nuclear Medicine 41st Annual Meeting, Florida, U.S.A., June 5-8, 1994.
+[B-23] J.C. Wu, Y.S. Chen and *I-Cheng Chang\**, “Approach of facial feature extraction for 3D face modeling”, The International MultiConference of Engineers and Computer Scientists (IMECS 2006), Hong Kong, June 20-22, 2006.
 <br>
-[B-24] I-Cheng Chang and Chung-Lin Huang, “Analysis of Heart Motion through Normal Direction-based Methods”, Asian Conference on Computer Vision (ACCV 1993), Osaka, Japan, Nov. 23-25, 1993.
+[B-24] *I-Cheng Chang\**, Tian-Lin Yang and Chung-Lin Huang, “Environment Matting of Transparent Objects Based on Frequency-Domain Analysis”, The 6th Pacific-Rim Conference on Multimedia (PCM 2005), Jeju Island, Korea, Nov. 13-16, 2005. [LNCS]
 <br>
-[B-25] I-Cheng Chang and Chung-Lin Huang, “Human Heart Motion Analysis through Normal Flow Methods”, IEEE Conference on Medical Imaging, San Francisco, U.S.A, Nov. 4-6, 1993.
+[B-25] *I-Cheng Chang\**, Bor-Tow Chen and Ching-Long Huang, “An On-hand 3D Acquisition Technique Based on Tri-aperture Lens Configuration”, The 24th IASTED International Conference on Modeling, Identification, and Control (MIC 2005), Innsbruck, Austria, Feb. 16-18, 2005.
 <br>
-[B-26] I-Cheng Chang and Chung-Lin Huang, “Three-Dimensional Polyhedral Objects Model Generation via Aspect Graph”, SPIE Proceedings of Model-Based Vision Development and Tools, Vol. 1609, Boston, U.S.A., November, 1991.
+[B-26] Yuan-Hao Yeh, *I-Cheng Chang\**, Ching-Long Huang and Wen-Jean Hsueh, “A Novel Robust and Material Adaptive 3D Imaging System”, The 3rd IASTED International Conference on Visualization, Imaging, and Image Processing (VIIP 2003), Benalmádena, Spain, September, 2003.
+<br>
+[B-27] Xinyi Jiang, Chun-Fa Chang, Wei-Yih Ho, Shitang Chen and *I-Cheng Chang\**, “Recovery of Reflectance Properties for Merging Multiple 3D Scans”, Proceedings of IEEE Fourth Pacific-Rim Conference on Multimedia (PCM 2003), Singapore, December, 2003.
+<br>
+[B-28] *I-Cheng Chang\**, Ching-Long Huang and W.J. Hsueh, “A Novel 3-D Hand-held Camera based on Tri-aperture Lens”, SPIE Photonics Asia, Vol. 4925, Shanghai, October, 2002.
+<br>
+[B-29] Yuan-Hao Yeh, *I-Cheng Chang\** and Ching-Long Huang, “A New Fast and High-resolution 3D Imaging System with Color Structured Light”, SPIE Photonics Asia, Vol. 4925, Shanghai, October, 2002.
+<br>
+[B-30] *I-Cheng Chang\**, B.T. Chen, K.J. Hsieh, W.J. Hsueh and H.C. Lin, “Surface Reconstruction Technique based on 3D Triangulation Enhancement”, SPIE Photonics Taiwan, Vol. 4080, July, 2000.
+<br>
+[B-31] *I-Cheng Chang\**, C.L. Huang and C.C Lien, “Posture Identification through Inverse Kinematics Method”, Proceedings of the Fourth Asian Conference on Computer Vision(ACCV 2000), Taipei, Taiwan, Jan. 8-11, 2000.
+<br>
+[B-32] *I-Cheng Chang\** and C.L. Huang, “The Walking Human Motion Analysis using Hidden Markov Model”, Proceedings of International Symposium on Multimedia Information Processing (ISMIP 1997), Taipei, Taiwan, 1997.
+<br>
+[B-33] *I-Cheng Chang\** and C.L. Huang, “Ribbon-Based Motion Analysis of Human Body Movements”, Proceedings of ICPR, Vienna, Austria, 1996.
+<br>
+[B-34] *I-Cheng Chang\**, C.L. Huang, L.C. Wu, Y.Y. Shen, and S.H. Yeh, “Cardiac Motion Analysis by Normal Directional Flow Constraint”, The Society of Nuclear Medicine 41st Annual Meeting, Florida, U.S.A., June 5-8, 1994.
+<br>
+[B-35] *I-Cheng Chang\** and Chung-Lin Huang, “Analysis of Heart Motion through Normal Direction-based Methods”, Asian Conference on Computer Vision (ACCV 1993), Osaka, Japan, Nov. 23-25, 1993.
+<br>
+[B-36] *I-Cheng Chang\** and Chung-Lin Huang, “Human Heart Motion Analysis through Normal Flow Methods”, IEEE Conference on Medical Imaging, San Francisco, U.S.A, Nov. 4-6, 1993.
+<br>
+[B-37] *I-Cheng Chang\** and Chung-Lin Huang, “Three-Dimensional Polyhedral Objects Model Generation via Aspect Graph”, SPIE Proceedings of Model-Based Vision Development and Tools, Vol. 1609, Boston, U.S.A., November, 1991.
 
 <a name='tw_conf'></a>
 
