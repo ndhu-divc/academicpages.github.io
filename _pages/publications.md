@@ -19,37 +19,53 @@ author_profile: true
 
 [A-1] Yu-Chen Hu, *I-Cheng Chang\**, Kuo-Yu Liu and Che-Lun Hung, “Improved Color Image Coding Schemes Based on Single Bit Map Block Truncation Coding”, Optical Engineering, Vol. 53, Issue 9, 093104(12 pages) , 2014. [SCI]
 <br>
-[A-1] *I-Cheng Chang\**, J. Cloud Yu and Chih-Chuan Chang, “A Forgery Detection Algorithm for Exemplar-based Inpainting Images Using Multi-region Relation”, Image and Vision Computing, to be published in Vol. 31, Issue 1, pp. 57-71, 2013. [SCI]
+[A-1]* I-Cheng Chang\**, Jhe-Sheng Lyu and Chun-Man Lin, “Human activities recognition based on a multi-level configuration”, Journal of Computers. (Accepted, Aug. 2018) [EI]
 <br>
-[A-2] *I-Cheng Chang\**, Kun-Han Lue, Hung-Jen Hsieh, Shu-Hsin Liu and Chih-Hao K.Ka, “Automated Striatal Uptake Analysis of 18F-FDOPA PET Images Applied to Parkinson’s Disease Patients”, Annals of Nuclear Medicine, to be published in Vol. 25, Issue 10, pp. 796-203, 2011. [SCI]
+[A-2] *I-Cheng Chang\**, Zong-Sing Wun and Hung-Yu Yeh, “An Image Inpainting Technique on Chinese Paintings”, Journal of Computers, Vol. 29, Issue 3, pp. 121-135, 2018. [EI]
 <br>
-[A-3] *I-Cheng Chang\** and Shih-Yao Lin, “3D Human Motion Tracking Based on a Progressive Particle Filter”, Pattern Recognition, to be published in Vol. 43, Issue 10, pp. 3621-3635, 2010. [SCI]
+[A-3] Shih-Chung Hsu, *I-Cheng Chang\** and Chung-Lin Huang, “Vehicle Verification Between Two Nonoverlapped Views Using Sparse Representation”, Pattern Recognition, Vol. 81, pp. 131-146, 2018. [SCI]
 <br>
-[A-4] *I-Cheng Chang\** and Chieh-Jung Hsieh, “Image Forgery Using Enhanced Bayesian-basedMatting Algorithm”, Intelligent Automation and Soft Computing, to be published in Vol. 17, No. 2, pp. 269-281, 2011. [SCI]
+[A-4] Hung-Yu Yeh, *I-Cheng Chang\** and Yung-Hsin Chen, “An Event Alarm System Based on Single and Group Human Behavior Analysis”, Journal of Electronic Science and Technology, Vol. 15, Issue 2, pp. 123-132, 2017. [EI]
 <br>
-[A-5] *I-Cheng Chang\**, Hsin-Yo Chou and Chung-Lin Huang, “Texture Compression and Relighting of 3-D Color Objects using Singular Value Decomposition”, Journal of Information Science and Engineering, to be published in Vol. 26, No. 2, pp. 485-503, 2010. [SCI]
+[A-5] Frank Y. Shi, Xin Zhong, *I-Cheng Chang\** and Shin’ichi Satoh, “An Adjustable-Purpose Image Watermarking Technique by Particle Swarm Optimization”, Multimedia Tools and Applications, Vol. 77, Issue 2, pp. 1623-1642, 2018. [SCI]
 <br>
-[A-6] Venkata Gopal Edupuganti, Frank Y. Shih and *I-Cheng Chang\**, “An Efficient Block-based Fragile Watermarking System for Tamper Localization and Recovery”, Intelligent Automation and Soft Computing, to be published in Vol. 17, No. 2, pp. 257-267, 2011. [SCI]
+[A-6] *I-Cheng Chang\**, Yu-Chen Hu, Wu-Lin Chen and Chun-Chi Lo, “High Capacity Reversible Data Hiding Scheme Based on Residual Histogram Shifting for Block Truncation Coding”, Signal Processing, Vol. 108, pp. 376-388, 2015. [SCI]
 <br>
-[A-7] *I-Cheng Chang\**, Yu-Ming Peng, Yung-Sheng Chen and San-Chi Wang, “Artistic Painting Style Transformation using a Patch-based Sampling Method”, Journal of Information Science and Engineering, to be published in Vol. 26, No. 4, pp. 1443-1458, 2010. [SCI]
+[A-7] Chun-Chin Lo, Yu-Chen Hu, Wu-Lin Chen and *I-Cheng Chang\**, “Probability-based Image Authentication Scheme for Indexed Color Images”, Journal of Electronic Imaging, Vol. 23, Issue 3, 033003, 2014. [SCI]
 <br>
-[A-8] *I-Cheng Chang\**, Tian-Lin Yang and Chung-Lin Huang, “Frequency-based Environment Matting of Transparent Objects Using Kaczmarz Method”, Journal of Information Science and Engineering, to be published in Vol. 26, No. 4, pp. 1413-1428, 2010. [SCI]
+[A-8] Yu-Chen Hu, *I-Cheng Chang\**, Kuo-Yu Liu and Che-Lun Hung, “Improved Color Image Coding Schemes Based on Single Bit Map Block Truncation Coding”, Optical Engineering, Vol. 53, Issue 9, 093104(12 pages) , 2014. [SCI]
 <br>
-[A-9] *I-Cheng Chang\**, Jia-Hong Yang, Teng-Hsun Chang and Yu-Kai Kao, “An Integrated Surveillance System Using RFID and Vision Tracking Technologies”, International Journal of Internet Protocol Technology, to be published in Vol. 4, No. 4, pp. 257-268, 2009. [Ei]
+[A-9] *I-Cheng Chang\**, J. Cloud Yu and Chih-Chuan Chang, “A Forgery Detection Algorithm for Exemplar-based Inpainting Images Using Multi-region Relation”, Image and Vision Computing, to be published in Vol. 31, Issue 1, pp. 57-71, 2013. [SCI]
 <br>
-[A-10] Jiann-Liang Chen, Yu-Ming Hsu and *I-Cheng Chang\**, “Adaptive Routing Protocol for Reliable Sensor Network Applications”, International Journal on SMART Sensing and Intelligent Systems, to be published in Vol. 2, No. 4, pp. 515-539, 2009. [Ei]
+[A-10] *I-Cheng Chang\**, Kun-Han Lue, Hung-Jen Hsieh, Shu-Hsin Liu and Chih-Hao K.Ka, “Automated Striatal Uptake Analysis of 18F-FDOPA PET Images Applied to Parkinson’s Disease Patients”, Annals of Nuclear Medicine, to be published in Vol. 25, Issue 10, pp. 796-203, 2011. [SCI]
 <br>
-[A-11] Jui-Chen Wu, Yung-Sheng Chen, and *I-Cheng Chang\**, “An automatic approach to facial feature extraction for 3-D face modeling”, IAENG International Journal of Computer Science, to be published in Vol. 33, No. 2, pp. 1-7, 2007.
+[A-11] *I-Cheng Chang\** and Shih-Yao Lin, “3D Human Motion Tracking Based on a Progressive Particle Filter”, Pattern Recognition, to be published in Vol. 43, Issue 10, pp. 3621-3635, 2010. [SCI]
 <br>
-[A-12] *I-Cheng Chang\** and Chung-Lin Huang, “Human Body Walking Motion Analysis Using Hidden Markov Models and Active Shape Models”, Journal of Information Science and Engineering, to be published in Vol. 17, No. 3, pp. 371-404, 2001. [SCI]
+[A-12] *I-Cheng Chang\** and Chieh-Jung Hsieh, “Image Forgery Using Enhanced Bayesian-basedMatting Algorithm”, Intelligent Automation and Soft Computing, to be published in Vol. 17, No. 2, pp. 269-281, 2011. [SCI]
 <br>
-[A-13] *I-Cheng Chang\** and Chung-Lin Huang, “The Model-Based Analysis of Human Body Motion”, Image and Vision Computing, to be published in Vol. 18, pp. 1067-1083, 2000. [SCI]
+[A-13] *I-Cheng Chang\**, Hsin-Yo Chou and Chung-Lin Huang, “Texture Compression and Relighting of 3-D Color Objects using Singular Value Decomposition”, Journal of Information Science and Engineering, to be published in Vol. 26, No. 2, pp. 485-503, 2010. [SCI]
 <br>
-[A-14] *I-Cheng Chang\** and Chung-Lin Huang, “Human Extremity Motion Analysis”,Images and Recognition, to be published in Vol. 5, No. 1, pp. 20-30, 1999.
+[A-14] Venkata Gopal Edupuganti, Frank Y. Shih and *I-Cheng Chang\**, “An Efficient Block-based Fragile Watermarking System for Tamper Localization and Recovery”, Intelligent Automation and Soft Computing, to be published in Vol. 17, No. 2, pp. 257-267, 2011. [SCI]
 <br>
-[A-15] *I-Cheng Chang\** and Chung-Lin Huang, “Motion Estimation Based on Normal Vector Field Methods”, IEICE Transaction on Information and Systems, to be published in Vol. E77-D, No.11, pp.l262-1272, 1994. [SCI]
+[A-15] *I-Cheng Chang\**, Yu-Ming Peng, Yung-Sheng Chen and San-Chi Wang, “Artistic Painting Style Transformation using a Patch-based Sampling Method”, Journal of Information Science and Engineering, to be published in Vol. 26, No. 4, pp. 1443-1458, 2010. [SCI]
 <br>
-[A-16] *I-Cheng Chang\** and Chung-Lin Huang, “Aspect Graph Generation for Non-Convex Polyhedra from Perspective Projection View”, Pattern Recognition, to be published in Vol. 25, No. l0, pp.l075-1096, 1992. [SCI]
+[A-16] *I-Cheng Chang\**, Tian-Lin Yang and Chung-Lin Huang, “Frequency-based Environment Matting of Transparent Objects Using Kaczmarz Method”, Journal of Information Science and Engineering, to be published in Vol. 26, No. 4, pp. 1413-1428, 2010. [SCI]
+<br>
+[A-17] *I-Cheng Chang\**, Jia-Hong Yang, Teng-Hsun Chang and Yu-Kai Kao, “An Integrated Surveillance System Using RFID and Vision Tracking Technologies”, International Journal of Internet Protocol Technology, to be published in Vol. 4, No. 4, pp. 257-268, 2009. [Ei]
+<br>
+[A-18] Jiann-Liang Chen, Yu-Ming Hsu and *I-Cheng Chang\**, “Adaptive Routing Protocol for Reliable Sensor Network Applications”, International Journal on SMART Sensing and Intelligent Systems, to be published in Vol. 2, No. 4, pp. 515-539, 2009. [Ei]
+<br>
+[A-19] Jui-Chen Wu, Yung-Sheng Chen, and *I-Cheng Chang\**, “An automatic approach to facial feature extraction for 3-D face modeling”, IAENG International Journal of Computer Science, to be published in Vol. 33, No. 2, pp. 1-7, 2007.
+<br>
+[A-20] *I-Cheng Chang\** and Chung-Lin Huang, “Human Body Walking Motion Analysis Using Hidden Markov Models and Active Shape Models”, Journal of Information Science and Engineering, to be published in Vol. 17, No. 3, pp. 371-404, 2001. [SCI]
+<br>
+[A-21] *I-Cheng Chang\** and Chung-Lin Huang, “The Model-Based Analysis of Human Body Motion”, Image and Vision Computing, to be published in Vol. 18, pp. 1067-1083, 2000. [SCI]
+<br>
+[A-22] *I-Cheng Chang\** and Chung-Lin Huang, “Human Extremity Motion Analysis”,Images and Recognition, to be published in Vol. 5, No. 1, pp. 20-30, 1999.
+<br>
+[A-23] *I-Cheng Chang\** and Chung-Lin Huang, “Motion Estimation Based on Normal Vector Field Methods”, IEICE Transaction on Information and Systems, to be published in Vol. E77-D, No.11, pp.l262-1272, 1994. [SCI]
+<br>
+[A-24] *I-Cheng Chang\** and Chung-Lin Huang, “Aspect Graph Generation for Non-Convex Polyhedra from Perspective Projection View”, Pattern Recognition, to be published in Vol. 25, No. l0, pp.l075-1096, 1992. [SCI]
 
 <a name="intl_conf"></a>
 
