@@ -17,8 +17,6 @@ author_profile: true
 
 ## 期刊論文
 
-[A-1] Yu-Chen Hu, *I-Cheng Chang\**, Kuo-Yu Liu and Che-Lun Hung, “Improved Color Image Coding Schemes Based on Single Bit Map Block Truncation Coding”, Optical Engineering, Vol. 53, Issue 9, 093104(12 pages) , 2014. [SCI]
-<br>
 [A-1]* I-Cheng Chang\**, Jhe-Sheng Lyu and Chun-Man Lin, “Human activities recognition based on a multi-level configuration”, Journal of Computers. (Accepted, Aug. 2018) [EI]
 <br>
 [A-2] *I-Cheng Chang\**, Zong-Sing Wun and Hung-Yu Yeh, “An Image Inpainting Technique on Chinese Paintings”, Journal of Computers, Vol. 29, Issue 3, pp. 121-135, 2018. [EI]
@@ -149,33 +147,49 @@ author_profile: true
 
 ## 國內會議論文
 
-[B-27] Shi-Zhong Zhan and I-Cheng Chan, “Human Interaction Detection Based on Pictorial Structures”, Conference on Computer Vision, Graphics, and Image Processing, Taiwan, August, 2012.
+[B-38] *I-Cheng Chang\**, Zong-Sing Wun and Hung-Yu Yeh, “Image Inpainting for Chinese Paintings”, The 11th Cross-Strait Conference on Information Science and Technology, Hualien, Taiwan, Dec. 13-15, 2017.
 <br>
-[B-28] Kun-Han Lue and I-Cheng Chang, Hung-Jen Hsieh, Shu-Hsin Liu, and Chih-Hao K. Kao, “An Objective Method for Manual Striatal Uptake Analysis Applied to 18F-FDOPA PET Images of Parkinson Disease Patients”, Taiwan International Symposium on Radiopharmaceutical Development and Application, Taiwan, June, 2010.
+[B-39] Xiang-Fu Liao, Zih-Han Luo, Bo-Ru Li, Zheng-Hua Xu, *I-Cheng Chang\**, “Forgery Detection for JPEG Images”, National Computer Symposium, Hualien, Taiwan, Dec. 14-15, 2017.
 <br>
-[B-29] I-Cheng Chang and Jiun-Wei Yu, “Physically simulated Ink Diffusion Model based on Particle Swarm Optimization Algorithm”, Computer Graphics Workshop, Taiwan, July, 2009.
+[B-40] J. Cloud Yu, *I-Cheng Chang\** and Yi-Jun Lin, “A Music Clip Manipulation System Based on Distributed Computation”, IA2016 - Workshop on Internet Architecture and Applications 2016, Taipei, Taiwan, Nov. 3-4, 2016.
 <br>
-[B-30] I-Cheng Chang, Chung-Lin Huang, Wei-Chang Chou and Je-Yu Liu, “Freehand Sketch System for 3D Design”, The 21th Conference on Computer Vision, Graphics, and Image Processing, Ilan, Taiwan, August, 2008.
+[B-41] Guan-Jhih Chen, *I-Cheng Chang\** and Hung-Yu Yeh, “Action Segmentation and Recognition Based on Bag of Visual Words Model”, The 29th IPPR Conference on Computer Vision, Graphics, and Image Processing (CVGIP 2016), Keelung, Taiwan, Aug. 15-17, 2016.
 <br>
-[B-31] Shih-Yao Lin and I-Cheng Chang, “3D Human Motion Estimation for Home Care Applications”, Symposium on Digital Life Technologies: Human-Centric Smart Living Technology, Tainan, Taiwan, June, 2008.
+[B-42] Jhe-Sheng Lyu, *I-Cheng Chang\**, Kuan-Wei Liao, Ciou-Wei Chen, Yu-Chen Hu, “Multi-type action recognition using sparse representation”, The 28th IPPR Conference on Computer Vision, Graphics, and Image Processing (CVGIP 2015), Yilan, Taiwan, Aug. 17-19, 2015.
 <br>
-[B-32] I-Cheng Chang and Chia-We Shu, “Enhanced Exemplar-based Algorithm of Image Inpainting”, Computer Graphics Workshop, Taiwan, October, 2007.
+[B-43]陳書熙、*張意政\\*，使用時間與空間關係之影片修補技術。第十四屆離島資訊技術與應用研討會，國立澎湖科技大學，May，2015。
 <br>
-[B-33] I-Cheng Chang and San-Chi Wang, “Painting Style Transformation System with the Artistic Database”, Computer Graphics Workshop, Taiwan, October, 2007.
+[B-44] Ze-Jhih Chen, *I-Cheng Chang\**, Guan-Jhih Chen, Yu-Chen Hu, “Video Tooing with Special Effects Based on Human Motion Analysis”, The 27th IPPR Conference on Computer Vision, Graphics, and Image Processing (CVGIP 2014), Pingtung, Taiwan, Aug. 17-19, 2014.
 <br>
-[B-34] I-Cheng Chang, Hsin-Yo Chou and Chung-Lin Huang, “Compression and Rendering of 3D Objects”, Computer Graphics Workshop, Taiwan, July, 2006.
+[B-45] Yu-You Wen, *I-Cheng Chang\**, Zhe-Sheng Lu, “Recognition of Table Tennis Skill”, The 26th IPPR Conference on Computer Vision, Graphics, and Image Processing (CVGIP 2013), Yilan, Taiwan, Aug. 18-20, 2013.
 <br>
-[B-35] I-Cheng Chang, Tian-Lin Yang, and Chung-Lin Huang, “Frequency-Based Environment Matting of Transparent Objects”, Conference on Computer Vision, Graphics, and Image Processing, Taiwan, 2005.
+[B-46] Shi-Zhong Zhan and *I-Cheng Chang\**, “Human Interaction Detection Based on Pictorial Structures”, Conference on Computer Vision, Graphics, and Image Processing, Taiwan, August, 2012.
 <br>
-[B-36] I-Cheng Chang, Bor-Tow Chen and Ching-Long Huang, “A Portable 3D Acquisition System based on Tri-aperture Lens Configuration”, Conference on Computer Vision, Graphics, and Image Processing, Taiwan, 2004.
+[B-47] Kun-Han Lue and *I-Cheng Chang\**g, Hung-Jen Hsieh, Shu-Hsin Liu, and Chih-Hao K. Kao, “An Objective Method for Manual Striatal Uptake Analysis Applied to 18F-FDOPA PET Images of Parkinson Disease Patients”, Taiwan International Symposium on Radiopharmaceutical Development and Application, Taiwan, June, 2010.
 <br>
-[B-37] Yuan-Hao Yeh, I-Cheng Chang, Ching-Long Huang and Wen-Jean Hsueh, “An Adaptive 3D Imaging System Using Color Structured Light”, Computer Graphics Workshop, Taiwan, August, 2003.
+[B-48] *I-Cheng Chang\**g and Jiun-Wei Yu, “Physically simulated Ink Diffusion Model based on Particle Swarm Optimization Algorithm”, Computer Graphics Workshop, Taiwan, July, 2009.
 <br>
-[B-38] Jui-Chen Wu, Yung-Sheng Chen and I-Cheng Chang, “An Automatic Approach to Extracting Facial Features”, Conference on Computer Vision, Graphics, and Image Processing, Taiwan, 2002.
+[B-49] *I-Cheng Chang\**g, Chung-Lin Huang, Wei-Chang Chou and Je-Yu Liu, “Freehand Sketch System for 3D Design”, The 21th Conference on Computer Vision, Graphics, and Image Processing, Ilan, Taiwan, August, 2008.
 <br>
-[B-39] I-Cheng Chang, C.L. Huang and W.L. Huang, “The Body Signature-based Motion Analysis for Walking Human”, Conference on Computer Vision, Graphics, and Image Processing, Taiwan, 1998.
+[B-50] Shih-Yao Lin and *I-Cheng Chang\**g, “3D Human Motion Estimation for Home Care Applications”, Symposium on Digital Life Technologies: Human-Centric Smart Living Technology, Tainan, Taiwan, June, 2008.
 <br>
-[B-40] I-Cheng Chang and Chung-Lin Huang, “Non-convex Ployhedra Object Model Representation via Aspect Graph Generation”, Proc. of Workshop on Computer Vision, Graphic and Image Processing, Taiwan, ROC, August, 1991.
+[B-51] *I-Cheng Chang\**g and Chia-We Shu, “Enhanced Exemplar-based Algorithm of Image Inpainting”, Computer Graphics Workshop, Taiwan, October, 2007.
+<br>
+[B-52] *I-Cheng Chang\**g and San-Chi Wang, “Painting Style Transformation System with the Artistic Database”, Computer Graphics Workshop, Taiwan, October, 2007.
+<br>
+[B-53] *I-Cheng Chang\**g, Hsin-Yo Chou and Chung-Lin Huang, “Compression and Rendering of 3D Objects”, Computer Graphics Workshop, Taiwan, July, 2006.
+<br>
+[B-54] *I-Cheng Chang\**g, Tian-Lin Yang, and Chung-Lin Huang, “Frequency-Based Environment Matting of Transparent Objects”, Conference on Computer Vision, Graphics, and Image Processing, Taiwan, 2005.
+<br>
+[B-55] *I-Cheng Chang\**g, Bor-Tow Chen and Ching-Long Huang, “A Portable 3D Acquisition System based on Tri-aperture Lens Configuration”, Conference on Computer Vision, Graphics, and Image Processing, Taiwan, 2004.
+<br>
+[B-56] Yuan-Hao Yeh, *I-Cheng Chang\**g, Ching-Long Huang and Wen-Jean Hsueh, “An Adaptive 3D Imaging System Using Color Structured Light”, Computer Graphics Workshop, Taiwan, August, 2003.
+<br>
+[B-57] Jui-Chen Wu, Yung-Sheng Chen and *I-Cheng Chang\**g, “An Automatic Approach to Extracting Facial Features”, Conference on Computer Vision, Graphics, and Image Processing, Taiwan, 2002.
+<br>
+[B-58] *I-Cheng Chang\**g, C.L. Huang and W.L. Huang, “The Body Signature-based Motion Analysis for Walking Human”, Conference on Computer Vision, Graphics, and Image Processing, Taiwan, 1998.
+<br>
+[B-59] *I-Cheng Chang\**g and Chung-Lin Huang, “Non-convex Ployhedra Object Model Representation via Aspect Graph Generation”, Proc. of Workshop on Computer Vision, Graphic and Image Processing, Taiwan, ROC, August, 1991.
 
 <a name='patent'></a>
 
